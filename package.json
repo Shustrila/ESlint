@@ -1,0 +1,27 @@
+{
+  "name": "eslint_netology",
+  "version": "1.0.0",
+  "description": "ESlint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shustrila/ESlint.git"
+  },
+  "keywords": [
+    "ESlint"
+  ],
+  "author": "Alexandr Maxalov (Shustrila)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shustrila/ESlint/issues"
+  },
+  "homepage": "https://github.com/Shustrila/ESlint#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.15.0"
+  }
+}
